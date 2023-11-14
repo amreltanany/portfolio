@@ -75,8 +75,9 @@ h3 {
 }
 
 .header-bg {
-	background: url(images/header-bg1.jpg) center fixed;
+	background: url(images/header.jfif) center fixed;
 	background-size: cover;
+
 }
 
 .header {
@@ -208,7 +209,7 @@ h3 {
 
 
 .testimonials-bg {
-	background: url(images/testimonial-bg.jpg) center fixed #000;
+	background: url(images/GameMart.jpeg) center fixed #000;
 	background-size: cover;
 }
 
@@ -220,8 +221,8 @@ h3 {
 .testimonials p {
 	font-size: 26px;
 	font-weight: 300;
-	line-height: 35px;
-	padding: 0 200px;
+	line-height: 43px;
+	padding: 0 96px;
 }
 
 #carousel-testimonials .arrow {
